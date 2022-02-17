@@ -6,7 +6,7 @@ This repository stores all the analysis scripts used in our publication:
 
 __Description of analysis scripts:__
 
-python_wrt_\*.py: scripts used to run the SLiM simulations by outputting SLiM scripts first and then run the SLiM program;
+python_wrt_\*.py: scripts used to run the SLiM simulations by writing SLiM scripts first and then running the script in SLiM program;
 
 vcf2fasta.py: convert vcf files output from SLiM to fasta files for downstream iMKT analysis;
 
